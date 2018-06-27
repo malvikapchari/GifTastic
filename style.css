@@ -1,11 +1,33 @@
-h1{
-    background-color: orangered;
-    color: white; 
-    text-align: center;
-    width: 100%;
-}
+#userInput {
+    margin-top: 100px;
+  }
+  
+  #header {
+    font-size: 100px;
+  }
+  
+  body {
+    font-family: cursive;
+    background-color: lavender;
+  }
+  
 
-body {
+  
+  .gifContainer {
+    margin: 10px;
+    display: inline-block;
+  }
+  .searchButtons {
+    margin: 7px 10px;
+  }
+  
+  .gifRating {
+    color: black;
+    font-size: 25px;
+  }
+  
+  
+  button {
+      font: cursive;
 
-    background-color: grey;
-}
+  }
